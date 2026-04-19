@@ -1,0 +1,11 @@
+transformers
+joblib
+numpy
+pandas
+rapidfuzz
+scikit-learn
+torch
+tf-keras
+fastapi
+uvicorn
+pydantic
