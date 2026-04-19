@@ -2,6 +2,10 @@
 
 This repository contains the source code for the Check Your Health Application. The project is separated into a Python-based machine learning backend and a Android frontend UI.
 
+## Recording
+
+https://github.com/user-attachments/assets/dd26d4c6-7d1d-44d5-9f6e-7580554d6ff2
+
 ## Requirements
 - Git
 - Python 3.9 or higher
